@@ -1,0 +1,11 @@
+D:\Сейф\С#\SmallProjects\NotBinaryMath\bin\Debug\netcoreapp2.1\NotBinaryMath.deps.json
+D:\Сейф\С#\SmallProjects\NotBinaryMath\bin\Debug\netcoreapp2.1\NotBinaryMath.runtimeconfig.json
+D:\Сейф\С#\SmallProjects\NotBinaryMath\bin\Debug\netcoreapp2.1\NotBinaryMath.runtimeconfig.dev.json
+D:\Сейф\С#\SmallProjects\NotBinaryMath\bin\Debug\netcoreapp2.1\NotBinaryMath.dll
+D:\Сейф\С#\SmallProjects\NotBinaryMath\bin\Debug\netcoreapp2.1\NotBinaryMath.pdb
+D:\Сейф\С#\SmallProjects\NotBinaryMath\obj\Debug\netcoreapp2.1\NotBinaryMath.csprojAssemblyReference.cache
+D:\Сейф\С#\SmallProjects\NotBinaryMath\obj\Debug\netcoreapp2.1\NotBinaryMath.csproj.CoreCompileInputs.cache
+D:\Сейф\С#\SmallProjects\NotBinaryMath\obj\Debug\netcoreapp2.1\NotBinaryMath.AssemblyInfoInputs.cache
+D:\Сейф\С#\SmallProjects\NotBinaryMath\obj\Debug\netcoreapp2.1\NotBinaryMath.AssemblyInfo.cs
+D:\Сейф\С#\SmallProjects\NotBinaryMath\obj\Debug\netcoreapp2.1\NotBinaryMath.dll
+D:\Сейф\С#\SmallProjects\NotBinaryMath\obj\Debug\netcoreapp2.1\NotBinaryMath.pdb
