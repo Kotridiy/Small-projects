@@ -1,0 +1,12 @@
+D:\Сейф\С#\Win32\Sharingan\bin\Release\Sharingan.exe.config
+D:\Сейф\С#\Win32\Sharingan\bin\Release\Sharingan.exe
+D:\Сейф\С#\Win32\Sharingan\bin\Release\Sharingan.pdb
+D:\Сейф\С#\Win32\Sharingan\bin\Release\Win32.dll
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.csprojResolveAssemblyReference.cache
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.Form1.resources
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.Properties.Resources.resources
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.csproj.GenerateResource.Cache
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.csproj.CoreCompileInputs.cache
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.exe
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.pdb
+D:\Сейф\С#\Win32\Sharingan\obj\Release\Sharingan.Form2.resources

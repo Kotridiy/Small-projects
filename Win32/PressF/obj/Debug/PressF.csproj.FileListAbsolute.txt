@@ -1,0 +1,15 @@
+D:\Сейф\С#\Win32\PressF\bin\Debug\PressF.exe.config
+D:\Сейф\С#\Win32\PressF\bin\Debug\PressF.exe
+D:\Сейф\С#\Win32\PressF\bin\Debug\PressF.pdb
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.csprojResolveAssemblyReference.cache
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.Form1.resources
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.Properties.Resources.resources
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.csproj.GenerateResource.Cache
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.csproj.CoreCompileInputs.cache
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.exe
+D:\Сейф\С#\Win32\PressF\obj\Debug\PressF.pdb
+D:\Сейф\С#\Win32\PressF\bin\Debug\Win32.dll
+D:\Сейф\С#\Win32\PressF\bin\Debug\AutoItX3.dll
+D:\Сейф\С#\Win32\PressF\bin\Debug\AutoItX3_x64.dll
+D:\Сейф\С#\Win32\PressF\bin\Debug\AutoItX3.Assembly.dll
+D:\Сейф\С#\Win32\PressF\bin\Debug\AutoItX3.Assembly.xml

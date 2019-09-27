@@ -1,0 +1,10 @@
+D:\Сейф\С#\Win32\PressMe\bin\Debug\PressMe.exe.config
+D:\Сейф\С#\Win32\PressMe\bin\Debug\PressMe.exe
+D:\Сейф\С#\Win32\PressMe\bin\Debug\PressMe.pdb
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.csprojResolveAssemblyReference.cache
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.Form1.resources
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.Properties.Resources.resources
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.csproj.GenerateResource.Cache
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.csproj.CoreCompileInputs.cache
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.exe
+D:\Сейф\С#\Win32\PressMe\obj\Debug\PressMe.pdb

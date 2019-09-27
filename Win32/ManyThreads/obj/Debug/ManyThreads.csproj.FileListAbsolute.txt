@@ -1,0 +1,10 @@
+D:\Сейф\С#\Win32\ManyThreads\bin\Debug\ManyThreads.exe.config
+D:\Сейф\С#\Win32\ManyThreads\bin\Debug\ManyThreads.exe
+D:\Сейф\С#\Win32\ManyThreads\bin\Debug\ManyThreads.pdb
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.csprojResolveAssemblyReference.cache
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.Form1.resources
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.Properties.Resources.resources
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.csproj.GenerateResource.Cache
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.csproj.CoreCompileInputs.cache
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.exe
+D:\Сейф\С#\Win32\ManyThreads\obj\Debug\ManyThreads.pdb
