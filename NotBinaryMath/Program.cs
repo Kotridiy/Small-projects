@@ -7,10 +7,11 @@ namespace NotBinaryMath
         static void Main(string[] args)
         {
             Console.Write("Number a = ");
-            DecimalInt a = new DecimalInt(Console.ReadLine());
+            HumanInt a = new HumanInt(Console.ReadLine());
             Console.Write("Number b = ");
-            DecimalInt b = new DecimalInt(Console.ReadLine());
-            Console.WriteLine($"{a} + {b} = {a + b}");
+            HumanInt b = new HumanInt(Console.ReadLine());
+            Console.WriteLine($"{a} * {b} = {a * b}");
+            }*/
         }
     }
 }
