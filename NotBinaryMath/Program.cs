@@ -11,7 +11,7 @@ namespace NotBinaryMath
             Console.Write("Number b = ");
             HumanInt b = new HumanInt(Console.ReadLine());
             Console.WriteLine($"{a} * {b} = {a * b}");
-            }*/
+            
         }
     }
 }
